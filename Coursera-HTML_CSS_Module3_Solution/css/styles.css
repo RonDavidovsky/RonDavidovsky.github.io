@@ -74,6 +74,7 @@ body {
 .main-content {
     background-color: #126128;
     height: 1000px;
+    margin-bottom: 15px;
 }
 
 .main-content h2 {
